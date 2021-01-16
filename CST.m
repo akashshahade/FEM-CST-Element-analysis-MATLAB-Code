@@ -5,7 +5,8 @@
 % Title - Program for FE Analysis of Plate using CST Element.
 %-------------------------------------------------------------------%
 
-clc;clear;
+clc;
+clear;
 
 fprintf(' \nFEM ANALYSIS OF PLATE USING CST Element. \n\n');
 
